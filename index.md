@@ -1,4 +1,19 @@
-## Welcome to GitHub Pages
+## Welcome to my GitHub Page
+_Hola,
+I'm Hagar Barakat, an enthusiastic software engineering student._  
+## Work Experience:
+### Freelance Software Developer
+#### Axis Mobile Application    :date: July – October 2019 
+- Axis is a startup based on food delivery. 
+- My task was to implement an android application that stores information about customers and markets through cloud firestore
+and pushing notifications through Cloud messaging.  
+- Technologies: Java, Android Studio, Cloud Firestore ,Cloud Messaging, Firebase Authentication, Google Maps 
+  - http://play.google.com/store/apps/details?id=com.examp.axis 
+### Freelance Software Developer 
+#### Health Planet Desktop Application :date: March – May 2019
+- Health planet is a restaurant. 
+- Developed a desktop application using Java and MySQL; in order to deal with customers’ orders and information for the restaurant. 
+- Technologies: MySQL, JavaFX, AWS Database. 
 
 You can use the [editor on GitHub](https://github.com/hagarbarakat/hagarbarakat.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
